@@ -10,7 +10,7 @@ The purpose of this analysis is to examine the temperatures observed in Oahu, Ha
 - Jupyter Notebook
 
 ## Results
-**All results recorded in Fahrenheit**
+***All results recorded in Fahrenheit***
 
 #### June Results
 ![Image1](Resources/June_Temps.PNG)
